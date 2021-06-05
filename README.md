@@ -1,6 +1,7 @@
 ![Aakash Mattoo](./Aakash.png)
-<h1 align="center">Hi 👋, I'm Aakash Mattoo</h1>
-<h3 align="center">A passionate about</h3>
+<h1 >Hello, I am Aakash Mattoo</h1>
+<br>
+<h3>A passionate about</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashmattoo&label=Profile%20views&color=0e75b6&style=flat" alt="aakashmattoo" /> </p>
 
@@ -27,7 +28,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aakashmattoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakashmattoo" height="30" width="40" /></a>
+<a href="https://kaggle.com/aakashmattoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aakashmattoo" height="30" width="40" /></a>
 <a href="https://instagram.com/aakashmattoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakashmattoo" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aakashmattoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aakashmattoo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
