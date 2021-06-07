@@ -19,6 +19,8 @@
 
 - 📝 I regularly write articles on [-](-)
 
+- 🏳️‍🌈 Pronouns: He/Him/His
+
 - 💬 Ask me about **-**
 
 - 📫 How to reach me **aakashmattoo01@gmail.com**
